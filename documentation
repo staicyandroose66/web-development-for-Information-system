@@ -1,0 +1,13 @@
+No of Modules – 2
+1.	Admin
+1.	Admin login- which takes a username and password
+2.	Admin dashboard – which shows the employee table, containing all the added employees.
+3.	The employee table will be containing employee name, position,phone,salary,status, employed, all the admin can edit the details.
+4.	add-employee/ will create new employees. Admin can add the employee
+5.	shift management- where admin can add the shifts for employees.
+
+
+2.	Employees
+1.	Employees can login with the phone number, otp will be displayed and they can enter the otp and log in.
+2.	/profile where employees can see their profile info, other team members
+3.	/profile-update -a profile update option , where employees can update email, about, also image.
